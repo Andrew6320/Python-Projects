@@ -51,6 +51,7 @@ The project uses the following datasets:
 2. Ensure you have Python installed and the necessary libraries:
    ```bash
    pip install pandas
+   pip install seaborn matplotlib
    ```
 3. Run the analysis using the provided scripts to view results.
 
